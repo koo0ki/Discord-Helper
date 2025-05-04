@@ -4,8 +4,8 @@
 
 > ## Пример
 
-![visual](./Assets/Ticket.png)
-![visual](./Assets/Voice.png)
+![visual](./assets/examples/Ticket.png)
+![visual](./assets/examples/Voice.png)
 
 > ## Запуск
 
